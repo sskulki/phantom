@@ -1,5 +1,6 @@
 ---
-layout: home
+title: resources
+layout: inner
 pagination: 
   enabled: true
 ---
