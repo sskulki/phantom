@@ -17,7 +17,7 @@ title: "Shridhar Kulkarni"
 email: 'sskulki@gmail.com'
 description: "Data Scientist"
 baseurl: "/shridhar.github.io" #the subpath of your site, e.g. /blog
-url: "https://sskulki.github.io/phantom" # the base hostname & protocol for your site, e.g. https://example.com
+url: "https://sskulki.github.io" # the base hostname & protocol for your site, e.g. https://example.com
 twitter_username: 'www.linkedin.com/in/shridhar-s-kulkarni'
 github_username: 'sskulki'
 #medium_username: 'blog.jamigibbs.com'
