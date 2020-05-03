@@ -1,7 +1,6 @@
 ---
-title: resources
 layout: inner
-pagination: 
-  enabled: true
+title: Resources
+permalink: /resources/
 ---
 Hi
