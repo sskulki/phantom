@@ -21,6 +21,8 @@ url: "https://sskulki.github.io" # the base hostname & protocol for your site, e
 linkedin_username: 'shridhar-s-kulkarni'
 github_username: 'sskulki'
 #medium_username: 'blog.jamigibbs.com'
+section_title: 'The list of projects'
+section_subtitle: 'The is the list'
 
 # Build settings
 markdown: kramdown
