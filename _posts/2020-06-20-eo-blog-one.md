@@ -3,11 +3,12 @@ title: "AI4EO-An Opportunity for Computation Sustainability"
 description: This post introduces how Earth Observation (EO), EO data sources and how EO  and Artificial Intelligence (AI) could be used for Computational Sustainability.
 toc: true
 comments: true
-layout: post
+layout: projects
 categories: [Machine learning, Deep learning,  Eearth observation]
 image: img/EO-blog-one-banner.jpg
 author: Anthony Faustine & Shridhar Kulkarni
 ---
+
 # AI4EO-An Opportunity for Computation Sustainability
 ## Introduction
 
